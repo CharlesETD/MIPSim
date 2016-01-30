@@ -26,3 +26,24 @@
 *.exe
 *.out
 *.app
+
+# Project/Project Filters
+*.vcxproj
+*.filters
+*.sln
+*.sdf
+*.suo
+*.opensdf
+*.user
+
+# Debug Folder
+Debug/
+
+# Release Folder
+Release/
+
+# IPCH Folder
+ipch/
+
+# Doxygen Docs Folder
+Docs/
