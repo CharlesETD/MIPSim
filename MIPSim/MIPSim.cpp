@@ -1,6 +1,6 @@
 /**
  * Author:		Charles Duncan (CharlesETD@gmail.com)
- * Created:		Jan 31, 2015
+ * Created:		Jan 31, 2016
  * Compiler:	MSVS Express 2012
  * OS:			Windows 7 Home Premium SP1 x64
  *
@@ -24,7 +24,7 @@ static const std::string& USAGE_MSG	= "MIPSim [ROM filename] -d";
 /**
  * Title and copyright notice.
  */
-static const std::string& TITLE_MSG	= "MIPSim: MIPS Simulator in C++\nCopyright 2016. Charles Duncan (CharlesETD@gmail.com)";
+static const std::string& TITLE_MSG	= "MIPSim: MIPS Simulator in C++\nCopyright 2016 Charles Duncan (CharlesETD@gmail.com)";
 
 /**
  * Message displayed when rom cannot be loaded.

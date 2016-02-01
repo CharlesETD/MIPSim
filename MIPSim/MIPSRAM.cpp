@@ -1,6 +1,6 @@
 /**
  * Author:		Charles Duncan (CharlesETD@gmail.com)
- * Created:		Jan 31, 2015
+ * Created:		Jan 31, 2016
  * Compiler:	MSVS Express 2012
  * OS:			Windows 7 Home Premium SP1 x64
  *
